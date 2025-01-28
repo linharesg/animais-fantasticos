@@ -14,6 +14,7 @@ export default [
         "functions",
         { blockScopedFunctions: "disallow" },
       ],
+      "class-methods-use-this": "error"
     },
   },
 ];
