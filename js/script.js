@@ -27,7 +27,3 @@ initFuncionamento();
 initFetchAnimais();
 initScrollAnimate();
 
-import _ from "lodash";
-import $ from "jquery";
-
-console.log($('nav'));
